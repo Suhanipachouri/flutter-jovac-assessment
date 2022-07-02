@@ -1,17 +1,17 @@
-![View Counter](https://komarev.com/ghpvc/?username=flutter-live-coding-challenge&label=View%20Counter&color=red&style=flat) &nbsp; &nbsp; ![Repo Size](https://img.shields.io/github/repo-size/rajput-hemant/flutter-live-coding-challenge?color=blue)
+![View Counter](https://komarev.com/ghpvc/?username=flutter-jovac-assessment&label=View%20Counter&color=red&style=flat) &nbsp; &nbsp; ![Repo Size](https://img.shields.io/github/repo-size/Suhanipachouri/flutter-jovac-assessment?color=blue)
 
-# Flutter Live Coding Challenge [<kbd> ![](https://img.icons8.com/material/20/undefined/downloads.png) </kbd>](https://github.com/rajput-hemant/flutter-live-coding-challenge/releases/download/v0.1.0/JoVAC-v0.1.0.apk) 
+# Flutter Live Coding Challenge
 
 A new Flutter project for JoVAC Assessment.
 
-# 📱 App UI
+<!-- # 📱 App UI
 
  <details>
     <summary> Click here to expand </summary>
         <p align="center">
-            <img src="https://github.com/rajput-hemant/flutter-live-coding-challenge/blob/master/assets/github_readme/app_ui.gif?raw=true" width="300" />
+            <img src="https://github.com/Suhanipachouri/flutter-jovac-assessment/blob/master/assets/github_readme/app_ui.gif?raw=true" width="300" />
         </p>
-</details>
+</details> -->
 
 
 ## Building from Source
@@ -20,12 +20,12 @@ A new Flutter project for JoVAC Assessment.
 - Fetch latest source code from master branch.
 
 ```console
-rajput-hemant@arch:~$ git clone https://github.com/rajput-hemant/flutter-live-coding-challenge
+Suhanipachouri@arch:~$ git clone https://github.com/Suhanipachouri/flutter-jovac-assessment
 ```
 
 - Run the app with Android Studio or VS Code. Or the command line:
 
 ```console
-rajput-hemant@arch:~$ flutter pub get
-rajput-hemant@arch:~$ flutter run
+Suhanipachouri@arch:~$ flutter pub get
+Suhanipachouri@arch:~$ flutter run
 ```
